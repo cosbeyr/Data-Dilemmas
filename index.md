@@ -1,4 +1,5 @@
 A space for notes, weekly reflections and other resources for CSCI497S: Usable Security and Privacy.
+Robin Cosbey --- Spring 2020
 
 ### Week 2: Sociotechnical Ontologies
 [reflection](https://cosbeyr.github.io/Data-Dilemmas/week-two)
