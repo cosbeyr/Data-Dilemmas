@@ -1,7 +1,7 @@
 # A Brief Introduction to Usable Security
 - historical look at papers that address user authentification and email encryption
 - study security systems to determine how important design is
-- debate exists over the role of interface changes versus more structual solutions in providing usable security
+- debate exists over the role of interface changes versus more structural solutions in providing usable security
 ---
 
 ### Case Studies
@@ -10,17 +10,15 @@
 - people have more accounts and more computer power (for cracking passwords)
 - guidelines: 8+ characters, random, upper-/lower-case, digits, ...
     - improve security but reduce usability
-- usability approach goal: validate that they access only resources th
-ey have permissions to use
-    - passwords, passphrases, PINs, graphical authentificaion, biometr
-ics, secure tokens
+- usability approach goal: validate that they access only resources they have permissions to use
+    - passwords, passphrases, PINs, graphical authentificaion, biometrics, secure tokens
 
 
 **passphrases** - Sigmund Porter (1982); use sequences of words to authenticate users; more usable == more memorable, more secure == longer, more key space
 
 **pass-algorithms** - James Haskett (1984); password would change for each login but pass-algorithm would remain (e.g. type next letter for each in given prompt)
 
-**password advice** - Ben and Marthalee Barton (1984); provided different ways to aid in passwordy selection; ways to convert a sentence or expression to a strong password
+**password advice** - Ben and Marthalee Barton (1984); provided different ways to aid in password selection; ways to convert a sentence or expression to a strong password
 
 **cognitive passwords** - give the user a series of questions that are easier for them to answer than for others; not for high-security == people close to the user can guess
 
@@ -29,7 +27,7 @@ ics, secure tokens
 - *passfaces* - Sacha Brostoff and Angela Sasses; user selects an image of a person's face known to them from a grid of nine faces, repeats four times with different faces
 - *deja vu* - similar to passfaces but with various images rather than just faces
 
-**passpoints** - Susan Wiedenbeck (2005); using images as passwords; users select regions (varying tolerance) within single image to create a password; smaller tollerance == better security but lesser usability
+**passpoints** - Susan Wiedenbeck (2005); using images as passwords; users select regions (varying tolerance) within single image to create a password; smaller tolerance == better security but lesser usability
 
 
 #### Email Encryption
@@ -58,7 +56,7 @@ ics, secure tokens
 * *KCM* - automatically creates a public-private key pair whenever a user creates a new email identity 
 * results: effective at stopping impersonation attacks
      * not useful against new identity (phishing) attacks
-* conclusion: improvment but not perfect; highlighed continuing problems 
+* conclusion: improvement but not perfect; highlighted continuing problems 
 
 ---
 
@@ -96,3 +94,4 @@ ics, secure tokens
 - conclusion: shift in thinking required
     - problem fundamentally scoped around security? improve interface 
     - others? broadening definition of the task to change the assumptions involved --> new design opportunities
+    - I AGREE COMPLETELY WITH THIS NOTE ON ASSUMPTIONS, AS DESIGNERS WE ARE TYPICALLY TOO NARROWMINDED -- BROADENING LEADS TO BRINING MORE PEOPLE TO THE CONVERSATION
