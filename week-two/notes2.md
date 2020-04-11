@@ -61,3 +61,92 @@
 ***The Technical Issues Contributing to DesignX Problem Complexity***
 
 **Non-Independence of Elements**
+- sociotechechnical systems: n-way interdependencies are common
+    - interdependencies often unknown, discovered later
+
+
+**Non-Linear Causal Relations: Feedback**
+- feedback changes behavior of the system, must be analyzed for emergent behavior
+    - can change the operating characteristics
+- inter-relationships among components are more important than the componens
+- THIS SEEMS TO RELATE TO ACTOR-NETWORK THEORY
+
+
+**Long and Unpredictable Latencies**
+-  feedback loops are often uncertain with long/unpredictable latencies
+
+
+**Multiple Scale Sizes**
+- problems require understanding/action from micro/macro sizes, short/long time periods
+    - micro/short: interface elements, procedural steps
+    - macro/long: supply chains, standards, legal contraints
+
+**Dynamically Changing Operating Characteristics**
+- due to: component failure, system modification, component enhancement
+- deliberate (systems that self-adjust and "learn")
+- mechanical, structural
+- simultaneous changes are challenging to deal with
+
+ 
+---
+
+### Approaches to Complex Sociotechnical Problems
+- sociotechnical systems: involve complex, non-linear mix of people and technology
+- human-centered design - analyzes the operation from the point of view of individual participants
+    - observations from real behavior, analyzing and following each individual job category
+- designers illuminate issues absent from traditional systems analyses
+    - discover underlying causes of the human behavior and redesign the system to eliminate them 
+    - THIS SEEMS CHALLENGING WITH LARGE SYSTEMS -- BREAK APART?
+
+**role of design caveats**
+- collaboratively work with systems thinkers and other actors
+- develop new ways of dealing with complex systems
+- lack of consideration of human psychology is a major cause of difficulty
+- designers focus on developing end result but with complex systems they must also be a member of the implementation team
+
+
+---
+
+### Implementation: The Core Difficulty
+- traditional design methods: observation, finding core issues, repeated interventions (prototypes), iteration == appropriate, successful
+- implementation issues lie in complex human and social elements, lack of understanding of fundamental human capabilities
+    - different perspectives of those involved in the analysis and decision making process 
+- require compromises: numerous technical, social and cultural adjustments
+- designers must address during design stage
+- HOW DO WE GET DESIGNERS INVOLVED IN IMPLEMENTATION?
+- THE AUTHORS SEEM TO BE GOING BACK AND FORTH ABOUT THESE PROBLEMS ARISING DURING DESIGN OR IMPLEMENTATION PHASE
+
+
+---
+
+### Moving Forward
+- "limited capability of humans to fully comprehend complex systems leads them naturally to the construction of systems that they can understand, even if imperfectly"
+- we tend to build systems that we can decompose, simplify or approximate by linearization
+    - success takes decades to come by (e.g. healthcare)
+- each component develops over time (relatively self-contained and understood)
+    - the structure of these systems is questionable at best
+    - mostly modular
+    - ARE THE AUTHORS OPPOSED TO LINEARITY?
+
+
+---
+
+### Muddling Through
+- secret: divide and conquer -- avoid trying to construct or redesign
+    - modularity and numerous small, incremental steps
+- *incrementalism* - process of moving forward in small, considerable steps, fitting the opportunities offered by each successive present
+    - major projects involve so many cultural issues, changes in work practices, changes to division of work across categories
+- WHAT ABOUT CONSTANTLY CHANGING LANDSCAPES?
+- failure of a small step does not lead to failure of entire effort
+- *muddling through* - acting opportunistically, "satisfice" rather than optimize
+- new design philosophy: modular, multiple steps, relatively independent parts, incremental changes to be implentented, linkages designed for flexibility
+- FLEXIBILITY IS BIG
+
+
+---
+
+- try for modularity
+- decompose into quasi-independent modules for a 'good enough' solution
+- pay attention to social, cultural and political issues
+- deep analysis, incremental muddling through, satisficing
+- design to allow for compromise: co-design, tolerance and modularity 
