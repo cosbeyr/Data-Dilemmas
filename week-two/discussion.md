@@ -25,3 +25,8 @@ RC: What/who are the actors in terms of usable security?
 GB: What are the "actions" that these actors take?
 
 SA: What is the purpose/intent of thinking of usable security in terms of AT?
+
+
+---
+
+[Go Back](https://cosbeyr.github.io/Data-Dilemmas/)
