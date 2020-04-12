@@ -81,9 +81,30 @@
 #### Successful Designs
 - based on user acceptance; designs viewed favorably in user testing and showed improvement in users' ability to achieve appropriate security levels
 
+**Salmon file permissions interface**
+- new user interface
+- anchor-based subgoaling (ABS) - ensures user interface provides all information user will need to complete the tasks for which the interface is intended
+- relevant information is readily available; relevant access control is in a single user interface
+- "Salmon is clearly a successful example of how simply changing an interface's design can result in better user security"
+
+**Network-in-a-Box**
+- new system architecture with modifications to existing protocols
+- "reframes the problem away from setting keys and acquiring certificates and toward the more fundamental task of getting on a wireless network"
+- gesture-based user interface 
+
 
 #### Flawed Designs
 - user's ability to perform tasks securely; designs that did not promote sound security decisions
+
+**Kazaa**
+- users need to refer to multiple locations to see externally visible files, not a shared interface
+- automatically shares any selected folder's subfolders
+- could be fixed through interface systems alone
+
+**Eudora PGP Encryption Plug-in**
+- users didn't understand the metaphors in public-key crytography
+- design problems run deeper than the interface: reframing required
+    - "We must step back and look at email itself as the task in question, rather than simply providing a better interface for key management"
 
 ---
 
