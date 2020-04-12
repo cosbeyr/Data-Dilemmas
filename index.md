@@ -1,6 +1,6 @@
 ### Week 2: Sociotechnical Ontologies
 [reflection](https://cosbeyr.github.io/Data-Dilemmas/week-two/week-two), 
-[discussion questions](https://cosbeyr.github.io/Data-Dilemmas/week-two/discussion)
+[discussion](https://cosbeyr.github.io/Data-Dilemmas/week-two/discussion)
 
 ---
 
