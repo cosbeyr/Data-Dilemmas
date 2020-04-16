@@ -1,3 +1,6 @@
+# Data Dilemmas
+Robin Cosbey, Spring 2020, CSCI497S
+
 ### Week 2: Sociotechnical Ontologies
 [reflection](https://cosbeyr.github.io/Data-Dilemmas/week-two/week-two), 
 [discussion](https://cosbeyr.github.io/Data-Dilemmas/week-two/discussion)
