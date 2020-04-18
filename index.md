@@ -9,6 +9,7 @@ Robin Cosbey, Spring 2020, CSCI497S
 
 
 ### Week 3: The Social Study of Digital Technologies
+[reflection](https://cosbeyr.github.io/Data-Dilemmas/week-three/week-three)
 
 ---
 
