@@ -15,6 +15,7 @@ Robin Cosbey, Spring 2020, CSCI497S
 
 
 ### Week 4: Theories and Analytic Models for Understanding Networked Power and Conflict
+[reflection](https://cosbeyr.github.io/Data-Dilemmas/week-four/week-four)
 
 ---
 
