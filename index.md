@@ -21,6 +21,7 @@ Robin Cosbey, Spring 2020, CSCI497S
 
 
 ### Week 5: Privacy & Trust
+[reflection](https://cosbeyr.github.io/Data-Dilemmas/week-five/week-five)
 
 ---
 
