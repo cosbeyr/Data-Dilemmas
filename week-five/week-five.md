@@ -1,4 +1,4 @@
-###
+### Privacy is a Power We Constantly Give Up
 
 Cheshire argues that “those who show that they are willing to take a chance
 online open themselves to risk; however, the long-term payoff is a kind of
@@ -51,6 +51,7 @@ and smoky garage). I wonder to what extent  “virtual assistants” like Alexa 
 Siri influence our perception. By personifying our technology are we making it
 easier for users to put their trust into assurance systems because they
 unknowingly misinterpret them in the same way they would another human? 
+
 From Cheshire’s publication, it seems to me that we are putting too much trust
 into technology and, in doing so, decreasing the power we have over our privacy.
 The “risks” we take lead us to give our personal information to bots associated
