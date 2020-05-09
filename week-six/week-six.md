@@ -67,9 +67,9 @@ The other sticking point for me that was brought up in both the Whitten and
 Abu-Salma publications was the characterization of the user they were studying.
 Whitten explains that the work was “focused on personal computer users who have
 little initial understanding of security” rather than “corporate or military
-users” (14). Abu-Salma states that their focus was on “users of communication
+users” (Whitten, 14). Abu-Salma states that their focus was on “users of communication
 tools who do not consider themselves to be at risk of targeted surveillance”
-unlike “activists, whistleblowers, or journalists” (4). The many types of users
+unlike “activists, whistleblowers, or journalists” (Abu-Salma, 4). The many types of users
 exemplified in these statements points to various levels of understanding about
 how cyber security works as well as various primary goals of the users in
 question. I’m not positive that there can be one security solution that will
