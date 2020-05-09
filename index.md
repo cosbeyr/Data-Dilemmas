@@ -27,6 +27,7 @@ Robin Cosbey, Spring 2020, CSCI497S
 
 
 ### Week 6: Usable Encryption & End-User Control
+[reflection](https://cosbeyr.github.io/Data-Dilemmas/week-six/week-six)
 
 ---
 
