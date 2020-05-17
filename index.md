@@ -33,6 +33,7 @@ Robin Cosbey, Spring 2020, CSCI497S
 
 
 ### Week 7: Authentification & Identification
+[reflection](https://cosbeyr.github.io/Data-Dilemmas/week-seven/week-seven)
 
 ---
 
