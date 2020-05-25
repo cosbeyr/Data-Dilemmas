@@ -82,15 +82,20 @@ important and transformative communication tools"
 
 
 (a) The nature of Twitter has changed over time.
+
     i.  The volume of tweets and related transactions has evolved and increased
        dramatically since the initial agreement was signed
+
     ii. The Library only receives text. It does not receive images, videos or
         linked content. Tweets now are often more visual than textual, limiting
         the value of text-only collecting.
+
     iii. Twitter is expanding the size of tweets beyond what was originally
          described at the beginning of effort.
+
 (b) The Library has the first 12 years of public tweets. This period documents
 the rise of an important social media platform
+
 (c) The Library generally does not collect comprehensively. Given the unknown
 direction of social media when the gift was planned, the Library made an
 exception for public tweets. With social media now established, the Library is
