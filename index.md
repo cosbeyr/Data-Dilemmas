@@ -39,6 +39,7 @@ Robin Cosbey, Spring 2020, CSCI497S
 
 
 ### Week 8: Social Engineering & Disinformation
+[reflection](https://cosbeyr.github.io/Data-Dilemmas/week-eight/week-eight)
 
 ---
 
