@@ -45,5 +45,6 @@ Robin Cosbey, Spring 2020, CSCI497S
 
 
 ### Week 9: Warnings, Notifications & Preferences
+[reflection](https://cosbeyr.github.io/Data-Dilemmas/week-nine/week-nine)
 
 ---
