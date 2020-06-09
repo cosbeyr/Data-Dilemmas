@@ -48,3 +48,8 @@ Robin Cosbey, Spring 2020, CSCI497S
 [reflection](https://cosbeyr.github.io/Data-Dilemmas/week-nine/week-nine)
 
 ---
+
+### Case Study: Data Collection
+[reflection](https://cosbeyr.github.io/Data-Dilemmas/case-study/case-study)
+
+---
