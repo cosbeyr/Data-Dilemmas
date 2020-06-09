@@ -50,6 +50,6 @@ Robin Cosbey, Spring 2020, CSCI497S
 ---
 
 ### Case Study: Data Collection
-[reflection](https://cosbeyr.github.io/Data-Dilemmas/case-study/case-study)
+[Case Study](https://cosbeyr.github.io/Data-Dilemmas/case-study/case-study)
 
 ---
