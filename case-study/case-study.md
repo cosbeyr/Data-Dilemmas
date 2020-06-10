@@ -1,5 +1,5 @@
-#### ABSTRACT 
-
+> #### ABSTRACT 
+> 
 > Over the past two decades social media platforms have become an integral part in the daily lives of many Americans. Within a shared time frame the collection and understanding of social media data has grown in popularity within many communities. These communities include scientific researchers, social scientists, and industrialists spanning the public and private sectors with vastly different motivations. One such party, the Library of Congress, publicized their collection efforts of Twitter data from 2010 through 2017.  The process and outcome of this data collection was affected by shifts in social media use and required the Library of Congress to evaluate their collection methods of streaming data. This example points to the need for further analysis of the relationships between companies that run social media platforms and data collectors as well as the content of the data itself and what can be ethically concluded with it. In reviewing the shared evolution of the data collection process, social media platforms themselves and the interpretation of digital communication, we can better understand the direction, challenges and opportunities that will be encountered by data collectors in the years to come.
 
 #### BACKGROUND 
