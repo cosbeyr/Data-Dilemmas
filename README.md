@@ -1,1 +1,1 @@
-[Data Dilemmas](cosbeyr.github.io/data-dilemmas)
+[Data Dilemmas](https://cosbeyr.github.io/Data-Dilemmas/)
